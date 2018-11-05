@@ -1,0 +1,16 @@
+name: sahar hamadi
+output_dir: '.'
+navbar:
+  title: hamadi sahar
+  type: inverse
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
+  
+output:
+  html_document:
+    highlight: textmate
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
